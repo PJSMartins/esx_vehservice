@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 description 'Serviço gratuito de reparação e lavagem de veículos, com zonas e blips separados'
 author 'Paulo Martins'
-version '2.1.0'
+version '0.0.1'
 
 shared_script '@es_extended/imports.lua'
 
